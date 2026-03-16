@@ -42,8 +42,8 @@ Fight increasingly difficult enemy waves, aim freely with the mouse, dash to eva
 
 ### 1) Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/krshydv/GridFire-SAGA.git
+cd GridFire-SAGA
 ```
 
 ### 2) Open in Unity Hub
