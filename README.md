@@ -1,9 +1,5 @@
 # GridFire Saga
 
-## (In Progress)
-
----
-
 GridFire Saga is a fast-paced **2D top-down wave shooter** built with **Unity 6.3 LTS (6000.3.x)**.  
 Fight increasingly difficult enemy waves, aim freely with the mouse, dash to evade danger, and survive as long as possible while chasing a high score.
 
